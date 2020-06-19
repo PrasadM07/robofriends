@@ -1,3 +1,9 @@
+
+ ...Steps To be Followed To Run RoboFriends :
+1. Clone this repository.
+2. Run npm install using command prompt.
+3. Run npm start to open the project at the localhost server.
+//////////////////////////////////////////////////////////////
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
